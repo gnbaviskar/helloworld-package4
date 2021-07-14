@@ -1,0 +1,15 @@
+{
+  "name": "@gnbaviskar/helloworld-package4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "url": "git //github.com/gnbaviskar/helloworld-package4.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
